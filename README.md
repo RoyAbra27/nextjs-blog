@@ -2,6 +2,8 @@
 
 This is a simple blog project built with Next.js. The project features a blog website with dynamic routes, Markdown support for content creation, and an intuitive user interface.
 
+https://vercel.com/royabra27/nextjs-blog/dz1JBpqjFfhWYD2Pgt7QD2T9KirS
+
 ## Installation
 
 To install and run the project locally, follow these steps:
